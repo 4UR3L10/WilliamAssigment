@@ -11,6 +11,8 @@ public class WilliamApplication {
     public static void main(String[] args) {
         // Create variables below. 
         
+        int x;
+        
         // Ask the user for input.
         
         // Show the result. (Example:"The value of the var is:" [*Unit measure include*])
